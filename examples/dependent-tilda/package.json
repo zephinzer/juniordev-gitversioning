@@ -1,0 +1,14 @@
+{
+  "name": "juniordev-gitversioning-dependent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha \"../../test/bootstrap.js\" \"./test/*.test.js\""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "juniordev-gitversioning-dependency": "~0.0.1"
+  }
+}

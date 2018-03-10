@@ -1,0 +1,8 @@
+{
+  "name": "juniordev-gitversioning-dependency",
+  "version": "0.2.2",
+  "description": "",
+  "main": "index.js",
+  "author": "zephinzer",
+  "license": "MIT"
+}
