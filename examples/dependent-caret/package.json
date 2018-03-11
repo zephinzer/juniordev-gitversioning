@@ -1,5 +1,5 @@
 {
-  "name": "juniordev-gitversioning-dependent",
+  "name": "juniordev-gitversioning-dependent-caret",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "juniordev-gitversioning-dependency": "^0.0.1"
+    "juniordev-gitversioning-dependency": "^5.0.0"
   }
 }

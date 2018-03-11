@@ -1,9 +1,6 @@
-const updatedFunctionThatWorks = add;
-const updatedFunctionThatBreaks = round;
-
 module.exports = {
-  updatedFunctionThatWorks,
-  updatedFunctionThatBreaks,
+  add,
+  round,
 };
 
 function round(numberToRound) {

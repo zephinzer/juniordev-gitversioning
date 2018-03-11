@@ -53,6 +53,8 @@ The last but rarely seen way of listing a dependency is:
 
 This indicates to always use the latest version whatever it may be.
 
+An example of how this might break things can be found in the [`./examples` directory](./examples).
+
 ### Continuous Integration/Delivery
 When you have a team size of roughly 10 developers and upward, multiple pushes of code happen every day and we often need to find a working copy of the code.
 
