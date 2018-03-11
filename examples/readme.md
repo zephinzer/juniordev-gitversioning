@@ -7,6 +7,9 @@ Minor versions are for new features with backward compatibility.
 
 Patch versions are for bug fixes/refactors with backward compatibility.
 
+## Corollary
+We'll be taking a look at how versioning and knowledge of doing it properly is important for software to not break.
+
 ## Exercise
 Let's see what happens when we don't take care of our versioning.
 
